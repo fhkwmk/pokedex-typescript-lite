@@ -27,7 +27,7 @@ Mini-projeto de back-end em Node.js com TypeScript, consumindo a PokéAPI e gere
 
 ## 📊 Organização do Kanban
 
-- **Link do Quadro Kanban:** [Clique aqui para visualizar o projeto no GitHub Projects](https://github.com/users/fhkwmk/projects/1)
+- **Link do Quadro Kanban:** [Clique aqui para visualizar o projeto no GitHub Projects]https://github.com/users/fhkwmk/projects/2
 
 ## 🎥 Vídeo Demonstrativo
 
