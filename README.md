@@ -17,7 +17,7 @@ Mini-projeto de back-end em Node.js com TypeScript, consumindo a PokéAPI e gere
 
 3. **Executar a aplicação em modo de desenvolvimento:**
    ```bash
-   npm run dev
+   npm run start
    ```
 ## 🛠️ Tecnologias Utilizadas
 
