@@ -53,12 +53,15 @@ pokedex-typescript-lite/
 ## 🚀 Como Instalar e Executar
 
 1. **Clonar o repositório:**
-      git clone https://github.com/fhkwmk/pokedex-typescript-lite.git
+
+   git clone https://github.com/fhkwmk/pokedex-typescript-lite.git
 
 2. **Instalar as dependências:
+
    npm install
       
 3. **Executar a aplicação:
+
    npm run start
    
 
@@ -68,6 +71,9 @@ https://github.com/users/fhkwmk/projects/2
 
 
 🎥 Vídeo Demonstrativo
+
+https://drive.google.com/file/d/1lq24UMsj6TrdkPIhmAyEl_e7rzBW03M7/view?usp=sharing
+
 
 
 
