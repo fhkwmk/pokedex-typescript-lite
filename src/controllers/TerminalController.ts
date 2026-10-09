@@ -25,13 +25,13 @@ export class TerminalController {
       switch (opcao.trim()) {
         case "1": {
           const termo = await rl.question("Digite o nome ou ID do Pokémon: ");
-          const pokemon = await buscarPokemon(termo);
-          if (pokemon) {
-            try {
+          try {
+            const pokemon = await buscarPokemon(termo);
+            if (pokemon) {
               await this.boxService.adicionar(pokemon);
-            } catch (erro: any) {
-              console.log(erro.message);
             }
+          } catch (erro: any) {
+            console.log(`[ERRO] ${erro.message}`);
           }
           break;
         }
@@ -55,7 +55,7 @@ export class TerminalController {
             try {
               await this.boxService.remover(id);
             } catch (erro: any) {
-              console.log(erro.message);
+              console.log(`[ERRO] ${erro.message}`);
             }
           }
           break;
