@@ -22,7 +22,7 @@ O **Pokédex TypeScript Lite** permite buscar informações de Pokémon por nome
 
 1. **Clonar o repositório:**
 
-      git clone [https://github.com/fhkwmk/pokedex-typescript-lite.git](https://github.com/fhkwmk/pokedex-typescript-lite.git)
+      git clone [https://github.com/fhkwmk/pokedex-typescript-lite.git]
 
 2. **Instalar as dependências:
 
